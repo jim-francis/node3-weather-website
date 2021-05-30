@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.2",
-    "postman-request": "*"
+    "postman-request": "*",
+    "socket.io": "^4.1.2"
   }
 }
